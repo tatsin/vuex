@@ -1,4 +1,4 @@
-# firstvuetify
+# practice vuex
 
 ## Project setup
 ```
